@@ -28,6 +28,8 @@ int main(int argc, char *argv[])
 
     sleep(1);
 
+    // fix bug 101
+
     os_system("test");
     get_network();
 
