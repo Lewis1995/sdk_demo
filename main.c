@@ -31,6 +31,7 @@ int main(int argc, char *argv[])
     // coding in dev
     // ...
     // ...
+    // fix bug 101
 
     os_system("test");
     get_network();
