@@ -28,6 +28,10 @@ int main(int argc, char *argv[])
 
     sleep(1);
 
+    // coding in dev
+    // ...
+    // ...
+
     os_system("test");
     get_network();
 
